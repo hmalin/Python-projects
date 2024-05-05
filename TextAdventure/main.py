@@ -148,7 +148,7 @@ if first_room == "left":
         else:
             print("You hesitated and are devoured by the creature.......Game over")
     else:
-        print("you attempt to escape unarmed and are slaughtered by the horrors hat lay ahead... Game Over.")
+        print("you attempt to escape unarmed and are slaughtered by the horrors that lay ahead... Game Over.")
 
 else:
     print("You fall into a laser trap and are burnt to a cinder")
